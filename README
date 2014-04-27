@@ -1,4 +1,5 @@
-A simple ember.js app to show bower + es6-modules in action
+Running 303 selenium tests takes 1629 seconds
+Running 306 js tests w/ testem takes 30 seconds
 
 
 To run the ember.js locally
