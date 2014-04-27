@@ -1,0 +1,6 @@
+node_modules/*
+js/vendor/*
+js/dist/*
+js/lib/tmpl.min.js
+js/lib/deps.min.js
+Gemfile.lock
